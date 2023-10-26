@@ -1,2 +1,1 @@
-# LynxEngine-Wiki
-Public repo containing the wiki page to lynx engine
+[# Click Here to View the Wiki!](https://github.com/Swedeachu/LynxEngine-Wiki/wiki)
